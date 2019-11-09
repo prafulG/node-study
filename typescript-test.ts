@@ -1,5 +1,5 @@
 interface = Myname{
-
+  name:string
 }
 
 var myname = (name:string)=>{
